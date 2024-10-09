@@ -6,8 +6,7 @@ El personaje no puede atravesar las paredes y debe encontrar su camino hacia la 
 
 **Instrucciones para Ejecutar:**
 
-- Abre Eclipse y crea un nuevo proyecto Java.
-- Asegúrate de copiar los archivos (Juego.java, Personaje.java, Laberinto.java) en el paquete correspondiente dentro del proyecto.
+
 
 **Importante**: Comprueba que el package de los archivos sea mazecab y que todas las clases estén correctamente importadas.
 Haz clic derecho en el archivo Juego.java y selecciona Run As > Java Application para ejecutar el juego.
