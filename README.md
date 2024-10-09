@@ -6,7 +6,13 @@ El personaje no puede atravesar las paredes y debe encontrar su camino hacia la 
 
 **Instrucciones para Ejecutar:**
 
-
+Descomprime el archivo ZIP y coloca los archivos en una carpeta local.
+1. Abre Eclipse.
+2. Ve a File > New > Java Project.
+3. Asigna un nombre al proyecto y haz clic en Finish.
+4. Una vez creado el proyecto, haz clic derecho sobre él en el panel izquierdo y selecciona Import.
+5. Selecciona File System y busca la carpeta donde están los archivos de código (Juego.java, Personaje.java, Laberinto.java, Enemigo.java, etc).
+6. Haz clic en Finish para importar los archivos.
 
 **Importante**: Comprueba que el package de los archivos sea mazecab y que todas las clases estén correctamente importadas.
 Haz clic derecho en el archivo Juego.java y selecciona Run As > Java Application para ejecutar el juego.
