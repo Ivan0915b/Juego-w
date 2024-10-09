@@ -14,7 +14,7 @@ Descomprime el archivo ZIP y coloca los archivos en una carpeta local.
 5. Selecciona File System y busca la carpeta donde están los archivos de código (Juego.java, Personaje.java, Laberinto.java, Enemigo.java, etc).
 6. Haz clic en Finish para importar los archivos.
 
-**Importante**: Comprueba que el package de los archivos sea mazecab y que todas las clases estén correctamente importadas.
+Comprueba que el package de los archivos sea mazecab y que todas las clases estén correctamente importadas.
 Haz clic derecho en el archivo Juego.java y selecciona Run As > Java Application para ejecutar el juego.
 
 **Requerimientos**:
